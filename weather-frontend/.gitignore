@@ -1,0 +1,11 @@
+# Next.js-specific ignores
+/node_modules
+/.next
+/out
+/build
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log
+yarn-error.log
